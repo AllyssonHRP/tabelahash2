@@ -51,7 +51,7 @@ public class Main {
                 if (p != null && p.validadorCPF() == true) {
                     System.out.println(p);
                 } else {
-                    System.out.println("Não encontrado. Verifique se o cadastro existe ou se a quantidade de dígitos está correta.");
+                    System.out.println("Não encontrado. Verifique se o cadastro existe ou se a quantidade de dígito está correta.");
                 }
 
             } else if (opcao == 3) {
